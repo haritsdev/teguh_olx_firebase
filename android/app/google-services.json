@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60935345640",
+    "project_id": "teguh-olx",
+    "storage_bucket": "teguh-olx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60935345640:android:e3954ee57502646b9a805d",
+        "android_client_info": {
+          "package_name": "com.teguh.olx.teguh_olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60935345640-tgrc87ah34ula3knu41ofevb4t3tbjkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teguh.olx.teguh_olx",
+            "certificate_hash": "38981698ec1d3ce3d023f38345f357ca45247f6b"
+          }
+        },
+        {
+          "client_id": "60935345640-9lcf6ttbh7rmu0529mre66hju7v4mvkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKj7a-OeU4EPZvMFWW5e3oCXzcXBqLEJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60935345640-9lcf6ttbh7rmu0529mre66hju7v4mvkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
